@@ -1,0 +1,35 @@
+------PROBLEMA 1------
+
+ Dacă vom modifica valoarea metodei MatrixMode.Projection obiectele nu se vor mai proiecta pe ecran, întrucât
+MatrixMode prezintă 4 metode care au roluri diferite referitor la randarea scenelor pe ecran
+(avem .Projection, .ModelView, .Texture și .Color).
+
+
+
+------PROBLEMA 3------
+
+1.Viewport-ul reprezinta zona exacta pe ecran unde se afisează obiectele
+
+2. FPS(frame per second) se referă la un anumit număr de cadre care se randează la un anumit moment de timp.
+Mai concret, reprezintă numărul de cadre încărcate pe secundă.
+
+3.Metoda OnUpdateFrame() se execută în mometul în care utilizatorul doreste sa efectueze o actualizare a obiectelor
+prin efectuarea click-ul, apasarea tastelor sau mutarea cursorului. În functie de astea se pot executa diverse operati
+de rotire, scalare, stergere sau chiar de creare de noi obiecte. Este utilă întrucât toate aceste acțiuni se execută în avans
+înainte de randare.
+
+4.Modul imediat permite programului să utilizeze direct comenzile de desen, de fiecare dată când se randează
+un nou cadru(frame)
+5.Ultima versiune este 4.7
+
+6.Metoda OnRenderFrame este rulată în momentul randari elementelor grafice (cuburi, linii) pe ecran. 
+De asemenea, acestea vor fi afisate pe ecran cu ajutorul metodei Resize().
+
+7. Metoda Resize() trebuie apelată cel puțion o dată întrucât aceasta se ocupă cu afișarea propriu zisă a
+elementelor grafice pe ecran și cu setarea viewport-ului.
+
+8.Parametrii metodei CreatePerspectiveFieldOfView() iau valorii de tip float. Acestia sunt:
+ -float fovy   -> setează unghiul câmpului vizual pe direcția y (în radiani)
+ -float aspect -> se referă la aspectul în raport cu view-ul (lățime/înățțime)
+ -float zNear  -> se referă la distanța față de planul apropiat
+ -float zFar   -> se referă la distanța față de planul îndepărtat
