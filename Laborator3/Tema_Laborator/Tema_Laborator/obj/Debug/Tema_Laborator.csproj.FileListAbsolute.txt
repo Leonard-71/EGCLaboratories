@@ -1,0 +1,30 @@
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.SuggestedBindingRedirects.cache
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\Tema_Laborator.exe.config
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\Tema_Laborator.exe
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\Tema_Laborator.pdb
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.dll
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.GLControl.dll
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.pdb
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.xml
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.GLControl.xml
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.CopyComplete
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.exe
+C:\Users\filip\Desktop\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.pdb
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\Tema_Laborator.exe.config
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\Tema_Laborator.exe
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\Tema_Laborator.pdb
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.dll
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.GLControl.dll
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.pdb
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.xml
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.GLControl.pdb
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\bin\Debug\OpenTK.GLControl.xml
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.SuggestedBindingRedirects.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.csproj.CopyComplete
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.exe
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Laborator 3\Tema_Laborator\Tema_Laborator\obj\Debug\Tema_Laborator.pdb

@@ -1,0 +1,27 @@
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csprojAssemblyReference.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe.config
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.pdb
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.dll
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.dll
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.pdb
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.xml
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.xml
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.AssemblyReference.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.SuggestedBindingRedirects.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CoreCompileInputs.cache
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CopyComplete
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
+E:\Facultate\ANUL 3\Semestrul 1\Laborator EGC\Probleme practice\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb

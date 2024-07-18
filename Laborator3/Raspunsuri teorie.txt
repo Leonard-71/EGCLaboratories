@@ -1,0 +1,23 @@
+1) Ordinea de desenare a vertexurilor este anti-orar.
+
+2) Anti-aliasing este o tehnica utilizata in imaginile digitale pentru a reduce defectele vizuale in momentul in care imaginile cu rezolutie mare sunt prezentate pe o rezolutie mai mica.
+
+3) GL.LineWidth(float)- specifică lățimea rasterizată atât a liniilor cu alias, cât și a liniilor antialias.
+   GL.PointSize(float)- specifică diametrul punctelor rasterizate, valoarea inițială este 1.
+   Nu.
+
+4)
+---- GL_LINE_LOOP --desenează linii unite pe ecran (ultimul vârf specificat este conectat la primul vârf);
+---- GL_LINE_STRIP --vârfurile adiacente sunt considerate linii. Astfel, dacă treceți n vârfuri, veți obține n-1 linii.
+---- GL_TRIANGLE_FAN --este un set de triunghiuri conectate ce au un vârf comun, care este vârful central.
+---- GL_TRIANGLE_STRIP --Desenează o serie de triunghiuri (poligoane cu trei laturi). Ordonarea laturilor este pentru a se asigura că triunghiurile sunt toate desenate cu aceeași orientare,
+ astfel încât banda să poată face corect parte dintr-o suprafață.
+
+6) Este important sa utilizam culori diferite(in gradient sau culori selectate per suprafata) pentru a pune in evidenta obiectul proiectat pe ecran.
+Avantajul consta in modul de vizualizare, de exemplu, daca avem un fundal si un obiect de aceeasi culoare nu le vom putea diferentia. Daca obiectul va fi de o culoare
+diferita de cea a fundalului, acesta va fi usor de identificat. 
+
+
+7) Un gradient de culoare specifică o gamă de culori dependente de poziție , utilizate de obicei pentru a umple o regiune.
+   Un gradient se poate obtine in OpenGL prin folosirea functiei gl_FragColor = mix(...).
+
